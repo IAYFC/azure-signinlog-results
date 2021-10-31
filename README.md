@@ -1,4 +1,4 @@
-# azure-signinlog-results
-All resulttype values &amp; messages for Azure Signinlog 
+Azure Active Directory (Azure AD) security token service (STS) error codes.
 
 Convert to JSON via PowerShell script
+
